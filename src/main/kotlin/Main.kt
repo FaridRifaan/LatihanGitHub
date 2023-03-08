@@ -13,4 +13,6 @@ fun main() {
         println("$masukanAngka adalah bilangan prima.")
     else
         println("$masukanAngka bukan bilangan prima.")
+
+    println("diatas adalah percobaan latihan :D")
 }
